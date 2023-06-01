@@ -1,21 +1,22 @@
-
-.logo{
+.logo {
     display: block;
     margin: auto;
     width: 80px;
-    height: 60px;
+    height: 50px;
 }
-.logo1{
+
+.logo1 {
     width: 30px;
     height: 30px;
 
 }
-body{
+
+body {
     height: 100vh;
     background-image: linear-gradient(rgb(92, 233, 255), rgb(104, 244, 54));
 }
 
-.container0{
+.container0 {
     max-width: 955px;
     background-color: rgb(39, 170, 83);
     margin: auto;
@@ -24,7 +25,7 @@ body{
     border-radius: 15px;
 }
 
-.container{
+.container {
     max-width: 955px;
     background-color: rgb(39, 170, 170);
     margin: auto;
@@ -32,24 +33,27 @@ body{
     border-radius: 15px;
     overflow-y: auto;
 }
-.message{
+
+.message {
     background-color: yellow;
     width: 25%;
     padding: 8px;
-    margin: 17px 2px;
+    margin: 05px 2px;
     border: 2px solid purple;
     border-radius: 10px;
 }
-.left{
+
+.left {
     float: left;
     clear: both;
 }
-.right{
+
+.right {
     float: right;
     clear: both;
 }
 
-#send-container{
+#send-container {
     display: block;
     margin: auto;
     text-align: center;
@@ -57,13 +61,15 @@ body{
     width: 100%;
 
 }
-#messageInp{
+
+#messageInp {
     width: 90%;
     border: 2px solid black;
     border-radius: 6px;
     height: 35px;
 }
-.btn{
+
+.btn {
     cursor: pointer;
     border: 3px solid black;
     border-radius: 119px;
